@@ -1,0 +1,65 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}nav ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent}ins{background-color:#ff9;color:#000;text-decoration:none}mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold}del{text-decoration:line-through}abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}table{border-collapse:collapse;border-spacing:0}hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}input,select{vertical-align:middle}
+
+/* http://www.colourlovers.com/palette/638109/pastel */
+
+html {
+background: rgb(181,223,215);
+}
+body {
+font-family: Fresca, sans-serif;
+}
+#main {
+width: 400px;
+margin: 100px auto 0;
+padding: 30px 20px;
+background: rgba(58,186,187,0.5);
+border-radius: 10px;
+box-shadow: 0 10px 0 0 rgba(58,186,187,1.0);
+color: white;
+font-size: 1.5em;
+}
+
+h1 {
+font-size: 56px;
+}
+h2 {
+font-size: 30px;
+margin-left: 20px;
+}
+h1 span, h2 span {
+color: rgb(215,235,198);
+}
+
+p#intro {
+margin-top: 50px;
+font-size: 32px;
+}
+p#unicorns {
+margin-top: 10px;
+font-size: 18px;
+text-align: right;
+}
+p span {
+background: rgb(58,186,187);
+border-radius: 5px;
+padding: 0 5px;
+}
+p span:hover {
+background: rgb(246,186,186);
+}
+
+#outside {
+list-style: none;
+margin-top: 30px;
+text-align: center;
+}
+#outside li {
+display: inline-block;
+margin: 0 10px;
+}
+#outside a {
+opacity: 0.5;
+}
+#outside a:hover {
+opacity: 1.0;
+}
