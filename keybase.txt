@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/heypiotr
+------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://heypiotr.io
+  * I am heypiotr (https://keybase.io/heypiotr) on keybase.
+  * I have a public key with fingerprint 6DFE 7789 961F A6B5 E89D  AF97 8478 DAC4 6FE3 3FC1
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101965b15a30de1f3f720749a8df519c1a6dc9683f42bcd4a2e1a55295b64e4edef0a",
+            "fingerprint": "6dfe7789961fa6b5e89daf978478dac46fe33fc1",
+            "host": "keybase.io",
+            "key_id": "8478dac46fe33fc1",
+            "kid": "0101965b15a30de1f3f720749a8df519c1a6dc9683f42bcd4a2e1a55295b64e4edef0a",
+            "uid": "b61d26edc93589d9ec500e59f44a4b19",
+            "username": "heypiotr"
+        },
+        "service": {
+            "hostname": "heypiotr.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1445185683,
+    "expire_in": 157680000,
+    "prev": "a28d6f99b3a8ba4870e5732434e0a6aa757b88ffc3d7fd46832981286160fa18",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJbSBRRGF7TFpOSqJ4qiyYjKak5M2cuZ7M2Co0euhG2dIHlzMw566Dt
+rLuzq4saGcoWGyplkXaBFPMhMaMLPUR2UUqUtIeQSIQQIlo3KHqwqOiM1Uv02Hk5
+nP983/d/388/sCDTlZOh1F/y+ZKmN2P40bmo68DqZ2drOM0y4pynhisnsxepMEjE
+9pebBufheMADJEsakLDIGwRQkSoCr0CEVYNKAOkAy4aOZFWkUNB0A2KBACxJApI0
+GRJIDEJ5zBVy1AwGSDgUNoM2k5UNShRFRUgGFMuaRFRkYIoUFSqqgXUoUyKKVAeM
+WGZFHAYzp+EI2WBarMYe/ll7/8D/Z9/RWTlNBoYgE8YQJWYVEV3ieSIhCiGGGkAO
+MELCQXyUMHQZiYdMyw5zdYUcq8ZMnTiDdZL8hfgVJxS2bEu3KpwP2w55HJ4dDznA
+KqL5f0v4NTNosCkyQoyEI6YV5DyAIXXbdDQBhBJQJZaokCPVITNM/KaDkBRZ5dlx
+2pAYk8SCasgUIU3EqoahqrAgiihAERIeyxgrkqKpKqW6aCjUgExQQCoQVBnIPMVA
+5ZxQlUGL80BmEweYZMQMBLEdDROu7vHDI1mujByXe+4cZ7tcOfMW/tk5rSXb9aT/
+Q0nJm2khmbl+vC+/2HdmydWZsekLuV0Tx+uL9J5jq9vTC7+92JOYid7NvjNwvTtW
+UJkQShsepRqLH28tet676r57TWbe2t2Hb93c27ZkZGnn5U/pzm198aYtG1pnvvbv
+0q+1Vpc09n7IWdaNu3Obs0dut19EHfmjD46/PusrOPnyetfpgz/292c1ii1To9+b
+78fX9m+unf9u+lJ+quZQcsXQ4Jh3R4CIa77ow1nLvzUMpSbaOrG4/sampxOLF23s
+cU/VoXt042ACJAKTJen3+ae2nv+ciqRPlL7avm9dufs78XYc21n7dnxlUe3gu4tV
+WZ8m89638Fd63fzUaNLb9PEnzgZEgA==
+=i+hR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/heypiotr
+
+==================================================================
